@@ -81,7 +81,7 @@ d3.json(url).then(function (data) {
     
       //Get data for selected subject ID
       let otuData = data.samples;
-      let subjectOtuData = otuData.filter(subject => subject.id == sample);
+      let subjectOtuData = otuData.filter(subject => subject.id == selectedSubject);
       let sampleValues = subjectOtuData[0].sample_values;
       let otuIds = subjectOtuData[0].otu_ids;
       let otuLabels = subjectOtuData[0].otu_labels;
