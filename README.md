@@ -3,7 +3,7 @@
 This is a project to build an app to visualize data collected regarding microorganisms found in human belly buttons. The dataset come from this project: http://robdunnlab.com/projects/belly-button-biodiversity/
 
 ##Github Pages
-github pages: https://lhmag89.github.io/belly-button-challenge/
+https://lhmag89.github.io/belly-button-challenge/
 <img width="625" alt="image" src="https://user-images.githubusercontent.com/119267098/227447414-b89e80bb-8cf5-44a0-8e35-f088af415782.png">
 
 
